@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Saat ini saya sedang mengerjakan **kabarkomunitas**
+- 🔭 Saat ini saya sedang mengerjakan proyek **kabarkomunitas**
 
 - 🌱 Saya sedang belajar **Laravel, PHP, Vue.js, JavaScript**
 
-- 👯 Saya ingin berkolaborasi **kabarkomunitas**
+- 👯 Saya aktif berkolaborasi dalam proyek kabarkomunitas **kabarkomunitas**
 
 - 👨‍💻 Proyek yang sudah saya kerjakan [https://bayuseptian.my.id/profile](https://bayuseptian.my.id/profile)
 
