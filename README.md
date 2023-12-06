@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, Perkenalkan Nama Saya Bayu.</h1>
-<div style="font-family: 'traditional arabic'; font-size: 15px; text-align: center;"><b>اَللّٰهُمَّ صَلِّى وَسَلِّمْ وَبَارِكْ عَلىٰ سّيِّدِنَا مُحَمَّدِ نِالنُّوْرِ الذَّاتِى وَالسِّرِّ السَّارِى فِى سَائِرِ الْأَسْمَاءِ وَالصِّفَاتِ وَعَلىٰ اٰلِهِ وَصَحْبِهِ أَجْمَعِيْنَ
-</b></div>
+اَللّٰهُمَّ صَلِّى وَسَلِّمْ وَبَارِكْ عَلىٰ سّيِّدِنَا مُحَمَّدِ نِالنُّوْرِ الذَّاتِى وَالسِّرِّ السَّارِى فِى سَائِرِ الْأَسْمَاءِ وَالصِّفَاتِ وَعَلىٰ اٰلِهِ وَصَحْبِهِ أَجْمَعِيْنَ
 <h3 align="center">Manusia Alfakir yang meminta pertolongan (maunah) kepada Allah melalui sholawat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bysetia&label=Profile%20views&color=0e75b6&style=flat" alt="bysetia" /> </p>
@@ -36,9 +35,9 @@
 
 <h3 align="left">Bahasa dan Alat:</h3>
 <p>   
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 10px;">
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40"  />
+                alt="bootstrap" width="100" height="100"  style="margin: 10px;"/>
         </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
