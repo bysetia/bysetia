@@ -11,7 +11,7 @@
 
 - 🌱 Saya sedang belajar **Laravel, PHP, Vue.js, JavaScript**
 
-- 👯 Saya aktif berkolaborasi dalam proyek kabarkomunitas **kabarkomunitas**
+- 👯 Saya aktif berkolaborasi dalam proyek **kabarkomunitas**
 
 - 👨‍💻 Proyek yang sudah saya kerjakan [https://bayuseptian.my.id/profile](https://bayuseptian.my.id/profile)
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fakta menyenangkan **Fokus & Pekerjaan selesai**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
