@@ -85,6 +85,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bysetia&show_icons=true&locale=en" alt="bysetia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bysetia&" alt="bysetia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bysetia&" alt="bysetia" />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysetia&show_icons=true&locale=en&layout=compact" alt="bysetia" /></p>
+</p>
 
