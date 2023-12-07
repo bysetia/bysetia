@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Perkenalkan Nama Saya Bayu.</h1>
-<h2 align="center">صَلَّى اللهُ عَلَى مُحَمَّد</h2>
+<h1 align="center">صَلَّى اللهُ عَلَى مُحَمَّد</h1>
 <h3 align="center">Manusia Alfakir yang meminta pertolongan (maunah) kepada Allah melalui sholawat</h3>
 
 <h3 align="center">Akun Sosial Media:</h3>
