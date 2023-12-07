@@ -2,7 +2,7 @@
 <h2 align="center">اَللّٰهُمَّ صَلِّى وَسَلِّمْ وَبَارِكْ عَلىٰ سّيِّدِنَا مُحَمَّدِ نِالنُّوْرِ الذَّاتِى وَالسِّرِّ السَّارِى فِى سَائِرِ الْأَسْمَاءِ وَالصِّفَاتِ وَعَلىٰ اٰلِهِ وَصَحْبِهِ أَجْمَعِيْنَ</h2>
 <h3 align="center">Manusia Alfakir yang meminta pertolongan (maunah) kepada Allah melalui sholawat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bysetia&label=Profile%20views&color=0e75b6&style=flat" alt="bysetia" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bysetia&label=Profile%20views&color=0e75b6&style=flat" alt="bysetia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysetia" alt="bysetia" /></a> </p>
 
